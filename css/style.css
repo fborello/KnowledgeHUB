@@ -73,8 +73,9 @@ body {
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-color: #b5caee;
-  background-image: url(../images/depositphotos_136328748-stock-photo-a-human-brain-on-blue.jpg);
+  /*background-color: #b5caee;
+  background-image: url(../images/depositphotos_136328748-stock-photo-a-human-brain-on-blue.jpg);*/
+  background-color: #f2f2f2;
   background-size: cover;
 }
 
@@ -169,7 +170,7 @@ a:focus {
 
 .navbar-brand span {
   font-size: 24px;
-  color: #ffffff;
+  color: #9d2235;
 }
 
 .custom_nav-container {
@@ -195,7 +196,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #ffffff;
+  color: #9d2235;
 }
 
 .slider_section .detail-box {
@@ -239,7 +240,7 @@ a:focus {
   width: 15px;
   height: 15px;
   background-color: transparent;
-  border: 3px solid #ffffff;
+  border: 3px solid #9d2235;
   border-radius: 100%;
   opacity: 1;
 }
