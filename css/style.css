@@ -53,7 +53,9 @@ body {
   top: 50%;
   width: 40px;
   height: 1px;
-  background-color: #fec016;
+  /*background-color: #fec016;*/
+  background-color: #d6e040;
+
 }
 
 .heading_container h2::before {
@@ -280,7 +282,8 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: hsl(210.69deg 63.9% 40.2%);
+  /*background-color: hsl(210.69deg 63.9% 40.2%);*/
+  background-color: #9d2235;
   border-radius: 100%;
 }
 
@@ -293,7 +296,8 @@ a:focus {
 }
 
 .do_section .do_container .box:hover .img-box {
-  background-color: #fec016;
+  /*background-color: #fec016;*/
+  background-color: #d6e040;
 }
 
 .do_section .do_container .arrow_bg::before {
@@ -340,8 +344,10 @@ a:focus {
 .who_section .readmore a {
   display: inline-block;
   padding: 8px 30px;
-  background-color: #353434;
-  border: 1px solid #353434;
+  /*background-color: #353434;*/
+  background-color: #d6e040;
+  /*border: 1px solid #353434;*/
+  border: 1px solid #d6e040;
   color: #ffffff;
   border-radius: 20px 20px 0 20px;
   margin-top: 35px;
@@ -349,7 +355,8 @@ a:focus {
 
 .who_section .detail-box a:hover {
   background-color: transparent;
-  color: #353434;
+  /*color: #353434;*/
+  color: #d6e040;
 }
 
 .work_section .work_container {
@@ -442,7 +449,8 @@ a:focus {
   text-transform: none;
   font-size: 16px;
   font-weight: normal;
-  color: #fec016;
+  /*color: #fec016;*/
+  color: #d6e040;
 }
 
 .client_section .box .detail-box img {
@@ -591,9 +599,11 @@ a:focus {
 
 /* end contact section */
 .info_section {
-  background-color: hsl(210.69deg 63.9% 40.2%);
+  /*background-color: hsl(210.69deg 63.9% 40.2%);*/
+  background-color: #9d2235;
   color: #ffffff;
-  padding: 90px 0 45px 0;
+  padding: 20px 0 45px 0;
+  margin-top: 20px;
 }
 
 .info_section h5 {
@@ -661,8 +671,10 @@ a:focus {
 .info_section .info_form form button {
   display: inline-block;
   padding: 8px 30px;
-  background-color: #fbca47;
-  border: 1px solid #fbca47;
+  /*background-color: #fbca47;
+  border: 1px solid #fbca47;*/
+  background-color: #d6e040;
+  border: 1px solid #d6e040;
   color: #ffffff;
   margin-top: 15px;
   text-transform: uppercase;
@@ -671,7 +683,8 @@ a:focus {
 
 .info_section .info_form form button:hover {
   background-color: transparent;
-  color: #fbca47;
+  /*color: #fbca47;*/
+  color: #d6e040;
 }
 
 .info_section .info_form .social_box {
@@ -688,7 +701,8 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: hsl(210.69deg 63.9% 40.2%);
+  /*background-color: hsl(210.69deg 63.9% 40.2%);*/
+  background-color: #9d2235;
   font-weight: 500;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -712,3 +726,7 @@ a:focus {
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
+
+.imgLogo{
+  height: 77px;
+}
