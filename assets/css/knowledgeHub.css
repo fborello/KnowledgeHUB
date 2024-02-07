@@ -40,7 +40,7 @@ h3 {
 }
 
 .Caricatura.CaricaturaFernando {
-  background-image: url("/assets/img/Caricaturas/FERNANDO_TRASNPARENTE.png?h=6f8e124badc3dafb9724dc6f1244275a");
+  background-image: url("../../assets/img/Caricaturas/FERNANDO_TRASNPARENTE.png");
 }
 
 .Caricatura {
@@ -57,19 +57,19 @@ h3 {
 }
 
 .Caricatura.CaricaturaPaula {
-  background-image: url("/assets/img/Caricaturas/PAULA_TRANSPARENTE.png?h=f21d4320bb1e57c2382e651edafa54d6");
+  background-image: url("../../assets/img/Caricaturas/PAULA_TRANSPARENTE.png");
 }
 
 .Caricatura.CaricaturaFelippe {
-  background-image: url("/assets/img/Caricaturas/FELIPPE_TRANSPARENTE.png?h=bdfaf6d78558027847c0ee19f5b4e29e");
+  background-image: url("../../assets/img/Caricaturas/FELIPPE_TRANSPARENTE.png");
 }
 
 .Caricatura.CaricaturaMiguel {
-  background-image: url("/assets/img/Caricaturas/MIGUEL_TRANSPARENTE.png?h=3639196de6eb5fbcf8cf4d7ecc6d76fa");
+  background-image: url("../../assets/img/Caricaturas/MIGUEL_TRANSPARENTE.png");
 }
 
 .Caricatura.CaricaturaDaniel {
-  background-image: url("/assets/img/Caricaturas/DANIEL_AUDIO_TRANSPARENTE.png?h=8810d776a6e2216978723eb18bf773de");
+  background-image: url("../../assets/img/Caricaturas/DANIEL_AUDIO_TRANSPARENTE.png");
 }
 
 .imgArticle {
@@ -81,41 +81,41 @@ h3 {
 }
 
 .imgArticle.imgArticle1 {
-  background-image: url("/assets/img/Artigos/Imagem_artigo_01_KH.jpeg?h=ce59aeb7e1937cf2a827d24a381493bf");
+  background-image: url("../../assets/img/Artigos/Imagem_artigo_01_KH.jpeg");
 }
 
 .imgArticle.imgArticle2 {
-  background-image: url("/assets/img/Artigos/Imagem_artigo_02_KH.png?h=cbd587b83e08d0fae908d13c9968d0ca");
+  background-image: url("../../assets/img/Artigos/Imagem_artigo_02_KH.png");
   background-size: contain;
 }
 
 .imgArticle.imgArticle3 {
-  background-image: url("/assets/img/Artigos/Imagem_artigo_03_KH.jpeg?h=cbd587b83e08d0fae908d13c9968d0ca");
+  background-image: url("../../assets/img/Artigos/Imagem_artigo_03_KH.jpeg");
 }
 
 .imgArticle.imgArticle4 {
-  background-image: url("/assets/img/Artigos/Imagem_artigo_04_KH.png?h=cbd587b83e08d0fae908d13c9968d0ca");
+  background-image: url("../../assets/img/Artigos/Imagem_artigo_04_KH.png");
 }
 
 .imgArticle.imgArticle5 {
-  background-image: url("/assets/img/Artigos/Imagem_artigo_05_KH.png?h=cbd587b83e08d0fae908d13c9968d0ca");
+  background-image: url("../../assets/img/Artigos/Imagem_artigo_05_KH.png");
 }
 
 .imgArticle.imgArticle6 {
-  background-image: url("/assets/img/Artigos/Imagem_artigo_06_KH.png?h=cbd587b83e08d0fae908d13c9968d0ca");
+  background-image: url("../../assets/img/Artigos/Imagem_artigo_06_KH.png");
   background-size: contain;
 }
 
 .imgArticle.imgArticle7 {
-  background-image: url("/assets/img/Artigos/Imagem_artigo_07_KH.png?h=03268d8d7ac4409c3869b70e7d9648c9");
+  background-image: url("../../assets/img/Artigos/Imagem_artigo_07_KH.png");
 }
 
 .imgArticle.imgArticle8 {
-  background-image: url("/assets/img/Artigos/Imagem_artigo_08_KH.png?h=59fc3b2b17f5ee337ef4f1f353f2ddd5");
+  background-image: url("../../assets/img/Artigos/Imagem_artigo_08_KH.png");
 }
 
 .imgArticle.imgArticle9 {
-  background-image: url("/assets/img/Artigos/Imagem_artigo_09_KH.png?h=59fc3b2b17f5ee337ef4f1f353f2ddd5");
+  background-image: url("../../assets/img/Artigos/Imagem_artigo_09_KH.png");
 }
 
 .imgHome {
@@ -126,11 +126,11 @@ h3 {
 }
 
 .HomeLampada {
-  background-image: url("/assets/img/Home/Lampada.png?h=66688f70a7610a05601deaaeb515dae5");
+  background-image: url("../../assets/img/Home/Lampada.png");
 }
 
 .backImageHome {
-  background-image: url("/assets/img/Fundos/FundoAboutUS.png?h=54247b0a4d98134de63030aedfca2a0e");
+  background-image: url("../../assets/img/Fundos/FundoAboutUS.png");
   background-position: center;
   margin-bottom: 20px;
   padding-bottom: 20px;
@@ -145,7 +145,7 @@ h3 {
 }
 
 .HomeLupa {
-  background-image: url("/assets/img/Home/Lupa.png?h=66688f70a7610a05601deaaeb515dae5");
+  background-image: url("../../assets/img/Home/Lupa.png");
   width: 82px;
   height: 102px;
   margin-right: auto;
@@ -166,11 +166,11 @@ h3 {
 }
 
 .HomeConexoes.HomeIcons {
-  background-image: url("/assets/img/Home/Conexoes.png?h=66688f70a7610a05601deaaeb515dae5");
+  background-image: url("../../assets/img/Home/Conexoes.png");
 }
 
 .HomeResultado.HomeIcons {
-  background-image: url("/assets/img/Home/Resultado.png?h=66688f70a7610a05601deaaeb515dae5");
+  background-image: url("../../assets/img/Home/Resultado.png");
 }
 
 .btnCentralizado {
