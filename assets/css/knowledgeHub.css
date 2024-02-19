@@ -184,3 +184,11 @@ h3 {
   color: var(--bs-primary) !important;
 }
 
+.imgArticle10 {
+  background-image: url("../../assets/img/Artigos/Imagem_artigo_10_KH.png");
+}
+
+.imgArticle.imgArticle11 {
+  background-image: url("../../assets/img/Artigos/Imagem_Artigo_11_KH.png");
+}
+
