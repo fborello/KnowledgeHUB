@@ -192,3 +192,12 @@ h3 {
   background-image: url("../../assets/img/Artigos/Imagem_Artigo_11_KH.png");
 }
 
+.ImgCertificado {
+  background-image: url("../../assets/img/CertificateIA.png");
+  width: 358px;
+  background-size: cover;
+  height: 250px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
